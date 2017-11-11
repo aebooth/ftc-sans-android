@@ -47,6 +47,7 @@ import com.qualcomm.robotcore.util.RobotLog;
 import com.qualcomm.robotcore.util.SerialNumber;
 import com.qualcomm.robotcore.util.ThreadPool;
 
+import extra.ftccommon.configuration.FtcConfigurationActivity;
 import org.firstinspires.ftc.robotcore.internal.network.NetworkConnectionHandler;
 
 import java.util.Map;

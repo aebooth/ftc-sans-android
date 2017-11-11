@@ -64,7 +64,7 @@ package com.qualcomm.ftccommon;
 import android.app.Activity;
 import android.hardware.usb.UsbDevice;
 
-import com.qualcomm.ftccommon.configuration.FtcConfigurationActivity;
+import extra.ftccommon.configuration.FtcConfigurationActivity;
 import com.qualcomm.ftccommon.configuration.ScannedDevices;
 import com.qualcomm.ftccommon.configuration.USBScanManager;
 import com.qualcomm.hardware.HardwareFactory;

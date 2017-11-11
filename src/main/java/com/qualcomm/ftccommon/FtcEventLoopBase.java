@@ -96,7 +96,7 @@ import android.app.Activity;
 import android.support.annotation.CallSuper;
 import android.support.annotation.NonNull;
 
-import com.qualcomm.ftccommon.configuration.FtcConfigurationActivity;
+import extra.ftccommon.configuration.FtcConfigurationActivity;
 import com.qualcomm.ftccommon.configuration.RobotConfigFile;
 import com.qualcomm.ftccommon.configuration.RobotConfigFileManager;
 import com.qualcomm.ftccommon.configuration.ScannedDevices;

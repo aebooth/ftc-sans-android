@@ -38,7 +38,7 @@ import android.support.annotation.Nullable;
 import android.support.annotation.RawRes;
 
 import com.qualcomm.ftccommon.R;
-import com.qualcomm.ftccommon.SoundPlayer;
+import extra.ftccommon.SoundPlayer;
 import com.qualcomm.robotcore.robot.RobotState;
 import com.qualcomm.robotcore.robot.RobotStatus;
 import com.qualcomm.robotcore.util.RobotLog;
